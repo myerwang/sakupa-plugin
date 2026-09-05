@@ -5,7 +5,10 @@
       "args": [
         "-y",
         "@sakupa/mcp@latest"
-      ]
+      ],
+      "env": {
+        "SAKUPA_PROJECT_ROOT": "${CLAUDE_PROJECT_DIR}"
+      }
     }
   }
 }
