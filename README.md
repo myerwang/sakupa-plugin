@@ -36,8 +36,8 @@ Full guide: https://sakupa.com/manual/ · Release timeline: https://sakupa.com/t
 }
 ```
 
-Ask your AI tool to install it for you: *"Please install and enable the latest Sakupa MCP
-using this configuration"* followed by the JSON above works in every tool that supports MCP.
+Or just tell your AI tool: *"Install the official Sakupa plugin from myerwang/sakupa-plugin
+and verify it."* Tools with a plugin system install the plugin; the others can use the JSON above.
 
 ## Layout
 
@@ -47,6 +47,6 @@ using this configuration"* followed by the JSON above works in every tool that s
 - `plugins/sakupa/` — the plugin itself: `.claude-plugin/plugin.json`, `.codex-plugin/plugin.json`,
   and the MCP server declarations (`.mcp.json`, `codex-mcp.json`).
 
-These files are generated from the Sakupa source repository on every release; the
-version in each manifest equals the published `@sakupa/mcp` version. Issues and feedback:
+These files are generated from the Sakupa source repository and mirrored here on every
+update; the version in each manifest equals the published `@sakupa/mcp` version. Issues and feedback:
 https://sakupa.com/support/
