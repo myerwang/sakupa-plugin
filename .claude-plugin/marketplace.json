@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "Publish and manage AI-made static websites from your AI tool: free 24-hour previews, monthly hosting and custom domains.",
-    "version": "1.2.0"
+    "version": "1.3.0"
   },
   "plugins": [
     {
       "name": "sakupa",
       "source": "./plugins/sakupa",
       "description": "Publish and manage AI-made static websites from your AI tool: free 24-hour previews, monthly hosting and custom domains.",
-      "version": "1.2.0",
+      "version": "1.3.0",
       "homepage": "https://sakupa.com/manual/",
       "category": "productivity"
     }
