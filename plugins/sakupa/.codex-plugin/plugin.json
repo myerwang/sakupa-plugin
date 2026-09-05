@@ -1,0 +1,25 @@
+{
+  "name": "sakupa",
+  "version": "1.1.0",
+  "description": "Publish and manage AI-made static websites from your AI tool: free 24-hour previews, monthly hosting and custom domains.",
+  "author": {
+    "name": "Sakupa",
+    "url": "https://sakupa.com/manual/"
+  },
+  "homepage": "https://sakupa.com/manual/",
+  "repository": "https://github.com/myerwang/sakupa-plugin",
+  "keywords": [
+    "mcp",
+    "static-site",
+    "deploy",
+    "hosting",
+    "website",
+    "sakupa"
+  ],
+  "mcpServers": "./codex-mcp.json",
+  "interface": {
+    "displayName": "Sakupa",
+    "shortDescription": "Publish and manage websites from your AI tool",
+    "category": "Development"
+  }
+}

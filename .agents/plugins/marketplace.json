@@ -1,0 +1,19 @@
+{
+  "name": "sakupa-plugin",
+  "interface": {
+    "displayName": "Sakupa plugins"
+  },
+  "plugins": [
+    {
+      "name": "sakupa",
+      "source": {
+        "source": "local",
+        "path": "./plugins/sakupa"
+      },
+      "policy": {
+        "installation": "AVAILABLE"
+      },
+      "category": "Development"
+    }
+  ]
+}

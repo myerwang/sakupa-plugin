@@ -1,0 +1,14 @@
+{
+  "name": "sakupa",
+  "version": "1.1.0",
+  "description": "Publish and manage AI-made static websites from your AI tool: free 24-hour previews, monthly hosting and custom domains.",
+  "mcpServers": {
+    "sakupa": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@sakupa/mcp@latest"
+      ]
+    }
+  }
+}
