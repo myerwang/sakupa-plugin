@@ -1,7 +1,7 @@
 {
   "name": "sakupa",
-  "version": "1.4.0+codex.20260906",
-  "description": "Publish and manage AI-made static websites from your AI tool: free 24-hour previews, monthly hosting and custom domains.",
+  "version": "1.4.1+codex.20260906",
+  "description": "Publish and manage AI-made static websites from your AI tool: free 30-day previews, monthly hosting and custom domains.",
   "author": {
     "name": "Sakupa",
     "url": "https://sakupa.com/manual/"
@@ -20,7 +20,7 @@
   "interface": {
     "displayName": "Sakupa",
     "shortDescription": "Publish and manage websites from your AI tool",
-    "longDescription": "Publish and manage AI-made static websites from your AI tool: free 24-hour previews, monthly hosting and custom domains.",
+    "longDescription": "Publish and manage AI-made static websites from your AI tool: free 30-day previews, monthly hosting and custom domains.",
     "developerName": "Sakupa",
     "category": "Development",
     "websiteURL": "https://sakupa.com/manual/",
