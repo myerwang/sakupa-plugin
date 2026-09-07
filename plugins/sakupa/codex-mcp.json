@@ -5,6 +5,9 @@
       "args": [
         "-y",
         "@sakupa/mcp@latest"
+      ],
+      "env_vars": [
+        "SAKUPA_PROJECT_ROOT"
       ]
     }
   }
