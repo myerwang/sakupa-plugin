@@ -7,6 +7,13 @@ so the plugin is always on the latest published version.
 
 Product: https://sakupa.com/product/ · Full guide: https://sakupa.com/manual/ · Release timeline: https://sakupa.com/timeline/
 
+## 日本語：企業・店舗のホームページ
+
+普段使う AI でWebサイトを作成、公開、更新、管理。\
+Sakupa アカウントも新しい管理画面も不要です。
+
+[日本語の製品紹介](https://sakupa.com/product/?lang=ja)
+
 ## Install as a plugin or extension
 
 | Tool | Commands |
