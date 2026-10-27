@@ -2,19 +2,19 @@
   "name": "sakupa-plugin",
   "owner": {
     "name": "Sakupa",
-    "url": "https://sakupa.com/manual/"
+    "url": "https://sakupa.com/product/"
   },
   "metadata": {
-    "description": "Publish and manage AI-made static websites from your AI tool: free 30-day previews, monthly hosting and custom domains.",
+    "description": "Publish and manage company websites from AI chat without a Sakupa account. Renewable 30-day free sites; hosting from JPY 200/site/month. Custom domains require a subscription; email forms have monthly quotas.",
     "version": "1.6.2"
   },
   "plugins": [
     {
       "name": "sakupa",
       "source": "./plugins/sakupa",
-      "description": "Publish and manage AI-made static websites from your AI tool: free 30-day previews, monthly hosting and custom domains.",
+      "description": "Publish and manage company websites from AI chat without a Sakupa account. Renewable 30-day free sites; hosting from JPY 200/site/month. Custom domains require a subscription; email forms have monthly quotas.",
       "version": "1.6.2",
-      "homepage": "https://sakupa.com/manual/",
+      "homepage": "https://sakupa.com/product/",
       "category": "productivity"
     }
   ]

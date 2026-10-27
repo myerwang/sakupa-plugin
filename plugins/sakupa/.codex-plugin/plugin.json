@@ -1,38 +1,48 @@
 {
   "name": "sakupa",
-  "version": "1.6.2+codex.20260907-2",
-  "description": "Publish and manage AI-made static websites from your AI tool: free 30-day previews, monthly hosting and custom domains.",
+  "version": "1.6.2+codex.20261027-1",
+  "description": "Publish and manage company websites from AI chat without a Sakupa account. Renewable 30-day free sites; hosting from JPY 200/site/month. Custom domains require a subscription; email forms have monthly quotas.",
   "author": {
     "name": "Sakupa",
-    "url": "https://sakupa.com/manual/"
+    "url": "https://sakupa.com/product/"
   },
-  "homepage": "https://sakupa.com/manual/",
+  "homepage": "https://sakupa.com/product/",
   "repository": "https://github.com/myerwang/sakupa-plugin",
   "keywords": [
-    "mcp",
-    "static-site",
-    "deploy",
-    "hosting",
-    "website",
-    "sakupa"
+    "company-website",
+    "small-business",
+    "business-website",
+    "publish-website",
+    "custom-domain",
+    "contact-form",
+    "no-account",
+    "static-hosting",
+    "sakupa",
+    "会社ホームページ",
+    "ホームページ公開",
+    "ホームページ更新",
+    "独自ドメイン",
+    "中小企業",
+    "店舗ホームページ",
+    "お問い合わせフォーム"
   ],
   "mcpServers": "./codex-mcp.json",
   "interface": {
-    "displayName": "Sakupa",
-    "shortDescription": "Publish and manage websites from your AI tool",
-    "longDescription": "Publish and manage AI-made static websites from your AI tool: free 30-day previews, monthly hosting and custom domains.",
+    "displayName": "Sakupa for Company Websites",
+    "shortDescription": "Company websites from AI chat",
+    "longDescription": "Publish and manage company websites from AI chat without a Sakupa account. Renewable 30-day free sites; hosting from JPY 200/site/month. Custom domains require a subscription; email forms have monthly quotas.",
     "developerName": "Sakupa",
-    "category": "Development",
-    "websiteURL": "https://sakupa.com/manual/",
+    "category": "Productivity",
+    "websiteURL": "https://sakupa.com/product/",
     "privacyPolicyURL": "https://sakupa.com/privacy/",
     "termsOfServiceURL": "https://sakupa.com/terms/",
     "brandColor": "#b8ff00",
     "logo": "./assets/logo.png",
     "composerIcon": "./assets/icon.png",
     "defaultPrompt": [
-      "Publish this website with Sakupa and give me the public URL.",
-      "Check the current status of my Sakupa site.",
-      "Add a contact form to this website that emails me every submission."
+      "Help me create a small business website, then ask before publishing it with Sakupa.",
+      "Update my company website and ask before publishing the changes with Sakupa.",
+      "Add a contact form to my website with Sakupa and explain the email quota before setup."
     ]
   }
 }

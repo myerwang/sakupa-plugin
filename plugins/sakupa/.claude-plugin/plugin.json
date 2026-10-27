@@ -1,21 +1,31 @@
 {
   "name": "sakupa",
-  "displayName": "Sakupa",
+  "displayName": "Sakupa for Company Websites",
   "version": "1.6.2",
-  "description": "Publish and manage AI-made static websites from your AI tool: free 30-day previews, monthly hosting and custom domains.",
+  "description": "Publish and manage company websites from AI chat without a Sakupa account. Renewable 30-day free sites; hosting from JPY 200/site/month. Custom domains require a subscription; email forms have monthly quotas.",
   "author": {
     "name": "Sakupa",
-    "url": "https://sakupa.com/manual/"
+    "url": "https://sakupa.com/product/"
   },
-  "homepage": "https://sakupa.com/manual/",
+  "homepage": "https://sakupa.com/product/",
   "repository": "https://github.com/myerwang/sakupa-plugin",
   "keywords": [
-    "mcp",
-    "static-site",
-    "deploy",
-    "hosting",
-    "website",
-    "sakupa"
+    "company-website",
+    "small-business",
+    "business-website",
+    "publish-website",
+    "custom-domain",
+    "contact-form",
+    "no-account",
+    "static-hosting",
+    "sakupa",
+    "会社ホームページ",
+    "ホームページ公開",
+    "ホームページ更新",
+    "独自ドメイン",
+    "中小企業",
+    "店舗ホームページ",
+    "お問い合わせフォーム"
   ],
   "mcpServers": "./.mcp.json"
 }
