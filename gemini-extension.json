@@ -1,6 +1,6 @@
 {
   "name": "sakupa",
-  "version": "1.6.2",
+  "version": "1.6.3",
   "description": "Publish and manage company websites from AI chat without a Sakupa account. Renewable 30-day free sites; hosting from JPY 200/site/month. Custom domains require a subscription; email forms have monthly quotas.",
   "mcpServers": {
     "sakupa": {
